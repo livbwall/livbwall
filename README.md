@@ -1,4 +1,6 @@
-## Hi there 👋
+# livbwall's readme intro
+### about me
+love to go on walks eat food and hangout with my dog
 
 <!--
 **livbwall/livbwall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
